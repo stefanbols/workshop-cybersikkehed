@@ -9,13 +9,28 @@ There are other useful representations, such as hexadecimal, decimal.
 ## Ex 1:
 What is the binary and hex representation of the number `42`?
 
+Binary: 0b101010
+HEX: 0x2a
+
 ## Ex 2:
 What is the binary representation of the number `32`? and its hex representation?
 Convert the following hexadecimal into decimal and representation: `0x435446667477`
 
+Binary: 0b100000
+HEX: 0x20
+
+HEX: 0x435446667477
+Representation: 74029237433463
+Binary: 74029237433463
+0b10000110101010001000110011001100111010001110111
+
+
 ## Ex 3:
 Look at the ASCII table and convert the following hex number into text:
 `59 6F 75 20 73 30 63 6B`
+
+Converted by hand: 
+ Y  o  u     s  0  c  k
 
 ## Ex 4:
 Open this file with cutter and find the hexdump tab. Can you find the following hex sequence: `232320457820323a0a57686174206973207468652062696e61727920726570726573656e746174696f6e206f6620746865206e756d62657220603332603f`?
